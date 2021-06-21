@@ -1,0 +1,5 @@
+terraform-0.12.15
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+
